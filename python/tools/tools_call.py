@@ -1,6 +1,7 @@
 import os, json
 from dotenv import load_dotenv
 from openai import OpenAI
+import subprocess
 
 load_dotenv()
 
