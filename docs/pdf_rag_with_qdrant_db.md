@@ -6,6 +6,9 @@ uv init .
 uv add python-dotenv langchain_text_splitters langchain_pymupdf4llm
 uv add langchain_qdrant langchain_google_genai langchain_core
 
+# add .env file
+GEMINI_API_KEY=""
+
 ```
 
 2. pdf document load and chunking
