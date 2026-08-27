@@ -1,5 +1,5 @@
 import asyncio
-from ollama import AsyncClient, list,show
+from ollama import AsyncClient, list, show
 
 # async def chat():
 #   message = {'role': 'user', 'content': 'who are you ?'}

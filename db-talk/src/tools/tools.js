@@ -1,6 +1,5 @@
 import db from "../lib/db.js"
 
-
 export const getAllUsers = async ({table})=>{
 
     try {

@@ -1,4 +1,4 @@
-from ollama import chat,ChatResponse
+from ollama import chat, ChatResponse
 
 stream: ChatResponse = chat(
     model="deepseek-r1:1.5b",
